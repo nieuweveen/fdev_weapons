@@ -2,15 +2,14 @@ USE `es_extended`;
 
 INSERT INTO `items` (`name`, `label`, `weight`) VALUES
     -- Ammunition
-	('ammo_pistol', 'Pistol Ammunition', 0),
-    ('ammo_smg', 'SMG Ammunition', 0),
-    ('ammo_rifle', 'Rifle Ammunition', 0),
-    ('ammo_lmg', 'LMG Ammunition', 0),
-    ('ammo_sniperrifle', 'Sniper Ammunition', 0),
+    ('ammo_pistol', 'Pistol Ammo', 0),
+    ('ammo_smg', 'SMG Ammo', 0),
+    ('ammo_rifle', 'Rifle Ammo', 0),
+    ('ammo_lmg', 'LMG Ammo', 0),
+    ('ammo_sniperrifle', 'Sniper Ammo', 0),
 
     -- Weapons
-    ('bat', 'Baseball bat', 1000),
-    ('hatchet', 'Hatchet', 1000),
+    ('bat', 'Honkbalknuppel', 1000),
     ('knuckle', 'Brass Knuckles', 1000),
     ('knife', 'Knife', 1000),
     ('machete', 'Machete', 1000),
